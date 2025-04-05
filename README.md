@@ -28,7 +28,7 @@ It supports:
   - requests
   - tkinter (usually included with Python)
 
-Install requirements:
+Install requirements:-
 ```
 pip install pandas gspread pillow requests
 ```
